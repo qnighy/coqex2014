@@ -3,7 +3,7 @@ layout: default
 title: "第1回"
 ---
 
-## 第1回の課題リスト (予定)
+## 第1回の課題リスト
 
 資料は下の方にあるので確認しておいてください。
 
@@ -66,6 +66,8 @@ Qed.
 applyコマンドとintrosコマンドのもっとも基本的な使い方は以下の通りです:
 
 - intros. (「ならば」の形で書かれている仮定を全て手持ちにする)
+- intros H0 H1. (「ならば」の形で書かれている仮定をいくつか手持ちにする)
+  - 否定がゴールにあるときは個数を明示してintrosするとうまくいくことがあります。
 - apply H. (仮定Hをゴールに適用する。)
 
 はじめのうちは、「初手はintros」と思ってしまってもよいかもしれません。
@@ -171,6 +173,7 @@ P
 
 - [タクティック一覧](http://coq.inria.fr/refman/tactic-index.html)
 - [標準ライブラリ](http://coq.inria.fr/stdlib/)
+- [Coq クイックリファレンス](http://homepage2.nifty.com/magicant/programmingmemo/coq/index.html)
 
 また、Coqの日本語資料はいくつか存在しますので、いろいろGoogle検索で頑張って調べてみてください。
 
@@ -188,6 +191,7 @@ P
 - assumptionタクティック
 - contradictタクティック
 - contradictionタクティック
+- exfalsoタクティック
 
 また、今回は禁止ですが、次の自動証明コマンドもよく使われます。
 
