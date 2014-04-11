@@ -15,6 +15,8 @@ Coqをダウンロードして、実行できるようにせよ。
 
 - Windowsの場合: [Download | The Coq Proof Assistant](http://coq.inria.fr/download)の coq-installer-8.4pl3.exe をダウンロード、実行してインストーラーの指示に従ってインストールしてください。
 - Mac OS Xの場合: [Download | The Coq Proof Assistant](http://coq.inria.fr/download)の coqide-8.4pl2.dmg を開き、内容物をApplicationsなどに展開してください。
+  - Mac用のdmgが動かない場合は[一つ前のバージョン](http://coq.inria.fr/coq-8.3)を使ってみてください。8.4のバイナリは動かないが8.3のバイナリは動くというケースが何件か報告されています。
+  - 公式に配布されているdmgイメージを利用するほかに、パッケージ管理システムが提供しているパッケージを利用する方法もあります。
 - その他: Ubuntuなどではパッケージ管理システムからCoqおよびCoqIDEをインストールすることができます。そうでない場合は、ソースコードからビルドする必要があるかもしれません。
 
 ### 課題0の2 (種別:A / 締め切り : 2014/04/13)
