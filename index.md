@@ -54,5 +54,9 @@ title: "ホーム"
 
 ## 提出方法
 
-提出方法は未定です。各自gistにコードを張ってURLを送り付けるとかになるかもしれません。
+- [GitHub](https://github.com/)や[gist](https://gist.github.com/)などに貼り付け、URLを(Twitter等で)お知らせください。
+- ファイルは課題ごとが望ましいです。(続けて証明すると前問の影響を受ける問題があります。)
 
+## 提出一覧
+
+[提出一覧](https://docs.google.com/spreadsheets/d/1ITbdwIEeaEc7u3Fo0Efx80lirWcA_BsUbw30NE_lSx0/edit?usp=sharing)はGoogle Docsで管理しています。
