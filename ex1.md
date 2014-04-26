@@ -21,7 +21,7 @@ Coqをダウンロードして、実行できるようにせよ。
 
 ### 課題0の2 (種別:A / 締め切り : 2014/04/13)
 
-CoqIDEを起動し、以下のコードを打ち込め。
+CoqIDEを起動し、以下のコードを打ち込め。(Emacsに慣れている場合は、CoqIDEではなくProofGeneralを用いるほうがよいかもしれない。)
 
 ```coq
 Theorem tautology : forall P : Prop, P -> P.
