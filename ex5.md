@@ -49,6 +49,7 @@ Qed.
 
 - 最初の問題は直観主義論理では証明できません。
 - 最後の2問はよく似た形をしていますが……？
+- IF then else の定義は[Coq.Init.Logic](http://coq.inria.fr/stdlib/Coq.Init.Logic.html)にあります。
 
 ### 課題22 (種別:A / 締め切り : 2014/05/11)
 
@@ -134,6 +135,7 @@ Qed.
 **ヒント**
 
 - surj と split\_epi はそれぞれ、「集合におけるエピ射は全射である」ことと、「集合におけるエピ射はレトラクションである」ことを意味します。
+- 参考資料 : [全射 - Wikipedia](http://ja.wikipedia.org/wiki/%E5%85%A8%E5%B0%84), [Epimorphism - Wikipedia](http://en.wikipedia.org/wiki/Epimorphism), [Surjective Functions - Wikipedia](http://en.wikipedia.org/wiki/Surjective_function), [epimorphism in nLab](http://ncatlab.org/nlab/show/epimorphism), [split epimorphism in nLab](http://ncatlab.org/nlab/show/split+epimorphism)
 
 ### 課題24 (種別:C / 締め切り : 2014/05/25)
 
