@@ -33,7 +33,7 @@ Qed.
 
 ### 課題12 (種別:A / 締め切り : 2014/04/27)
 
-次の定理を証明せよ。 (出典 : [anarchy proof](http://as305.dyndns.org/aps/problem/view/9))
+次の定理を証明せよ。 (出典 : [anarchy proof](http://web.archive.org/web/20101125111258/http://as305.dyndns.org/aps/problem/view/9))
 
 ```coq
 Require Import Lists.List.
@@ -111,11 +111,11 @@ Qed.
 
 帰納法はCoqの核となる部分ですが、ここでは基本的な練習ができる3問と発展的な2問を用意してみました。
 
-問12以外にも、[anarchy proof](http://as305.dyndns.org/aps/problem)には帰納法に関連する練習問題がいくつかあります。帰納法がメインの問題と思われるものをいくつか抜き出してみます。
+問12以外にも、[anarchy proof](http://web.archive.org/web/20130609191210/http://as305.dyndns.org/aps/problem)には帰納法に関連する練習問題がいくつかあります。帰納法がメインの問題と思われるものをいくつか抜き出してみます。
 
-- [Induction by tree height](http://as305.dyndns.org/aps/problem/view/7)
-- [Seven trees](http://as305.dyndns.org/aps/problem/view/8)
-- [Ackermann](http://as305.dyndns.org/aps/problem/view/14)
-- [Prop to Type](http://as305.dyndns.org/aps/problem/view/15) (難)
-- [Fibonacci function](http://as305.dyndns.org/aps/problem/view/21)
+- [Induction by tree height](http://web.archive.org/web/20101125111248/http://as305.dyndns.org/aps/problem/view/7)
+- [Seven trees](http://web.archive.org/web/20101125111253/http://as305.dyndns.org/aps/problem/view/8)
+- [Ackermann](http://web.archive.org/web/20101125111028/http://as305.dyndns.org/aps/problem/view/14)
+- [Prop to Type](http://web.archive.org/web/20101125111033/http://as305.dyndns.org/aps/problem/view/15) (難)
+- [Fibonacci function](http://web.archive.org/web/20130714193218/http://as305.dyndns.org/aps/problem/view/21)
 
